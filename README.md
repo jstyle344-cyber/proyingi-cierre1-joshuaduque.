@@ -26,7 +26,7 @@ Soy de Acapulco guerrero, escogí la carrera de ingeniería en sistemas porque m
 |---|---|---|
 | Markdown | [x ] | [Sí / No / A medias] |
 | Obsidian | [ x] | [Sí / No / A medias] |
-| Git |x [ ] | [Sí / No / A medias] |
+| Git | [x ] | [Sí / No / A medias] |
 | GitHub | [x ] | [Sí / No / A medias] |
 
 ## Cómo voy en el curso
@@ -41,4 +41,3 @@ Soy de Acapulco guerrero, escogí la carrera de ingeniería en sistemas porque m
 
 
 - **Herramienta utilizada:** [ "No se utilizó IA generativa en esta entrega"]
--
