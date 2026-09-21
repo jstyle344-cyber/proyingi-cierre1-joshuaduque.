@@ -24,10 +24,10 @@ Soy de Acapulco guerrero, escogí la carrera de ingeniería en sistemas porque m
 
 | Herramienta | ¿Para qué la uso? | ¿Ya la tengo funcionando? |
 |---|---|---|
-| Markdown | [x ] | [Sí / No / A medias] |
-| Obsidian | [ x] | [Sí / No / A medias] |
-| Git | [x ] | [Sí / No / A medias] |
-| GitHub | [x ] | [Sí / No / A medias] |
+| Markdown | [no la usare] | [No] |
+| Obsidian | [no la usare] | [No] |
+| Git | [para editar mis commits desde la app] | [si] |
+| GitHub | [para guardar las versiones de mi tarea y mandarla] | [Sí] |
 
 ## Cómo voy en el curso
 
