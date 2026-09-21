@@ -38,23 +38,16 @@ Qué mide o detecta (sensor): [Si la ventana al salir esta cerrada]
 Qué hace con eso (actuador, aviso, pantalla): [Buzzer y LED rojo; opcionalmente, una pantalla que muestre “Ventana abierta”.]
 Qué pieza habría que fabricar: [ Carcasa para el microcontrolador y soporte para colocar el sensor magnético en el marco, fabricados con impresión 3D o corte láser.]
 ---
-Tabla de viabilidad
-> Instrucción: escribe Sí, No o Parcial en cada celda. Una idea con un "No" no está
-> descalificada: lo que se evalúa es que reconozcas el problema, no que las tres ideas
-> salgan perfectas.
-Criterio	Idea 1	Idea 2	Idea 3
-Problema concreto de mi entorno			
-Parte física fabricable			
-Sensor o actuador			
-Construible en ocho sesiones por principiantes			
-Qué tan seguro estoy de lo anterior (alto / medio / bajo)			
-Mi elección
-Idea elegida: [ ]
-Por qué. [Tres o cuatro líneas, apoyadas en la tabla.]
-Qué todavía no sé. [Lo que tendrías que averiguar o probar antes de comprometerte.
-Esta sección vale: reconocer la incertidumbre es parte del trabajo de ingeniería.]
----
-Declaración de uso de IA
-Herramienta utilizada: [nombre y versión, o "No se utilizó IA generativa en esta entrega"]
-Qué le pedí: [ ]
-Qué modifiqué o rechacé de su respuesta, y por qué: [ ]
+Criterio	Idea 1: Cubículos	Idea 2: Humedad en maceta	Idea 3: Ventana abierta
+Problema concreto de mi entorno	Sí	Sí	Sí
+Parte física fabricable	Sí	Sí	Sí
+Sensor o actuador	Parcial	Sí	Sí
+Construible en ocho sesiones por principiantes	Parcial	Sí	Parcial
+Qué tan seguro estoy de lo anterior	Medio	Alto	Medio
+Mi elección	No	Sí	No
+
+
+Idea elegida: Aviso de humedad en una maceta.
+Por qué. Es la alternativa más accesible porque utiliza pocos componentes: un microcontrolador pequeño, sensor capacitivo de humedad, LEDs, buzzer y una carcasa impresa en 3D. El problema ocurre directamente en mi casa y puedo probar el prototipo con mis propias plantas. También se puede construir y calibrar en ocho sesiones sin requerir conexión a internet, aplicación para celular ni instalación dentro de la biblioteca.
+Qué todavía no sé. Necesito probar qué nivel de humedad debe considerarse “tierra seca” para cada planta, porque no todas requieren la misma cantidad de agua. También debo comprobar que el sensor no se dañe con el riego, decidir cómo alimentar el dispositivo y diseñar una carcasa que proteja el microcontrolador.
+Declaración de uso de IA: Le pedí a chat gpt que me ayudara a saber que partes físicas utilizaría según mis ideas porque desconozco de lo que se tendria que utilizar.  
