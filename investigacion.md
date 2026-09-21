@@ -92,3 +92,17 @@ Tipo: Documentación técnica.
 Por qué le creo: Adafruit diseña y documenta productos electrónicos para aprendizaje; la guía identifica autora, fecha y funcionamiento.
 
 Qué dato me dio: Los sensores resistivos pueden oxidarse por sus partes metálicas expuestas. Por eso usaré un sensor capacitivo, que es más adecuado para dejarse insertado en la tierra.
+
+Parte 3. Qué haría distinto
+
+Mi propuesta no regará automáticamente la planta; solo dará una alerta visual y sonora cuando la tierra esté seca. Esto reduce el costo, evita tener una bomba, depósito y mangueras, y disminuye el riesgo de derramar agua cerca de la electrónica. Usaré un sensor capacitivo de humedad, un microcontrolador pequeño, LEDs y un buzzer. La carcasa y la estaca protectora se fabricarán con impresión 3D. El dispositivo estará pensado para una maceta específica de mi casa y se calibrará con esa misma tierra.
+
+Parte 4. Qué me falta averiguar
+
+- ¿Qué valores exactos entrega el sensor capacitivo cuando la tierra de mi maceta está seca, húmeda y demasiado mojada?
+- ¿Qué nivel de humedad necesita específicamente la planta con la que se probará el prototipo?
+- ¿Qué fuente de alimentación será más conveniente: cable USB, batería recargable o adaptador de corriente?
+- ¿Cómo protegeré la placa y los cables de salpicaduras durante el riego?
+- ¿Cuántos días debe probarse el prototipo para comprobar que el aviso coincide con el estado real de la planta?
+
+- Declaración de IA: le pedí a chat gpt que me ayudara criticando mis ideas para ver que me falto averiguar o puntos que no tome en cuenta y que me ayudara con la formalidad de mi redacción para que se vea mas presentable.
