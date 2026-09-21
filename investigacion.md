@@ -2,7 +2,9 @@
 Investigación: ¿esto ya existe? ¿quién lo dice?
 Autor: [Joshua Duque]
 Fecha: 20 de septiembre de 2026
+
 Ideas analizadas: ideas-proyecto.md
+
 Parte 1. Un ejemplo que ya existe, por cada idea
 Idea 1: Botón con sensor en la entrada de los cubículos de la biblioteca
 Qué encontré: Arduino-powered real-time library seating availability system, proyecto de la Universiti Teknologi MARA.
@@ -10,6 +12,8 @@ Enlace:
  https://ir.uitm.edu.my/id/eprint/133402/
 Qué hace: Usa Arduino UNO, sensores infrarrojos y una pantalla LCD para detectar lugares de estudio disponibles y mostrar la información en tiempo real.
 Por qué no resuelve mi caso: Es un sistema de laboratorio pensado para monitorear asientos; no está instalado en los cubículos de la biblioteca de la IBERO. Requeriría autorización de la biblioteca, varios sensores y cableado. Para detectar realmente el uso, convendría cambiar el botón por un sensor infrarrojo o de distancia, porque un botón depende de que cada estudiante lo presione.
+
+
 Idea 2: Aviso de humedad en una maceta
 Qué encontré: Build a Circuit to Automatically Water Your Plants, proyecto educativo de Science Buddies.
 Enlace:
