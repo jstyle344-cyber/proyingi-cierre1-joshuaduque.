@@ -14,7 +14,7 @@ Idea 1: [Botón con sensor en la entrada de los cubículos de la biblioteca]
 Problema. [sitios de estudio llenos en la biblioteca.]
 A quién le pasa. [Estudiantes de la ibero.]
 Dónde lo he visto. [Biblioteca de la ibero mientras buscas un cubiculo libre y resultan llenos todos]
-Cómo funcionaría. [Un boton en la entrada de los cubiculos conm sensor para indicar su uso y una pantalla en la entrada con la informacion de los cubiculos accesibles y los que estan en uso]
+Cómo funcionaría. [Un boton en la entrada de los cubiculos con sensor para indicar su uso y una pantalla en la entrada con la informacion de los cubiculos accesibles y los que estan en uso]
 Qué mide o detecta (sensor): 
 [La presión de la pulsacion]
 Qué hace con eso (actuador, aviso, pantalla): [Manda una señal que hace actualizar la informacion en la pantalla]
