@@ -1,2 +1,13 @@
+Idea elegida
+
+Aviso de humedad en una maceta
+
+Elegí esta idea porque resuelve un problema que ocurre directamente en mi casa: a veces riego una planta antes de que lo necesite o dejo pasar demasiado tiempo sin regarla. Esto puede hacer que la planta tenga exceso de agua, se seque o no crezca adecuadamente.
+
+Es una alternativa accesible para un equipo principiante porque requiere pocos componentes: un microcontrolador pequeño, como Arduino o ESP32; un sensor capacitivo de humedad; LEDs; un buzzer; cables y una fuente de alimentación. No necesita internet, una aplicación para celular, bomba de agua ni instalación en otro lugar. Por ello, puede fabricarse, programarse y probarse durante ocho sesiones.
+
+El prototipo mediría la humedad de la tierra mediante un sensor capacitivo colocado en la maceta. El microcontrolador recibiría esa lectura y la compararía con un nivel de humedad definido durante las pruebas. Si la tierra tiene suficiente humedad, se encendería un LED amarillo o verde. Si la tierra está seca, se encendería un LED rojo y sonaría un buzzer para indicar que es momento de regar la planta. De manera opcional, una pantalla OLED podría mostrar el nivel de humedad medido.
+La parte física del prototipo estaría formada por una estaca protectora impresa en 3D para sujetar el sensor dentro de la tierra. También tendría una base para sostener el microcontrolador junto a la maceta, una caja o carcasa para proteger Arduino o ESP32 de golpes y salpicaduras, y una tapa removible para acceder a los cables o cambiar la batería. Finalmente, se fabricaría un soporte para colocar los LEDs, el buzzer y, si se usa, la pantalla OLED de forma visible y ordenada.
+
 
 
