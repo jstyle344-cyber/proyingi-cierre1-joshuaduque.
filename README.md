@@ -19,7 +19,7 @@ Soy de Acapulco guerrero, escogí la carrera de ingeniería en sistemas porque m
 
 - [Ideas de proyecto](ideas-proyecto.md) — tres ideas de proyecto para la materia, con su análisis de viabilidad.
 - [Investigación](investigacion.md) — ejemplos que ya existen y fuentes consultadas.
-- [Idea elegida](idea-elegida.md)- mi idea elegida y lo que usare.
+- [Idea elegida](idea-elegida.md.)- mi idea elegida y lo que usare.
 ## Herramientas que estoy usando
 
 | Herramienta | ¿Para qué la uso? | ¿Ya la tengo funcionando? |
