@@ -52,6 +52,8 @@ Enciende un LED amarillo o rojo y activa un buzzer cuando la tierra está seca. 
 Qué pieza habría que fabricar
 Estaca protectora para el sensor, carcasa para Arduino o ESP32 y soporte para la pantalla, fabricados con impresión 3D.
 
+SD Industrial. (2020, 20 de mayo). Sensor de humedad: Qué es, tipos y cómo funciona. SD Industrial Blog. [https://sdindustrial.com.mx/blog/sensor-de-humedad/](https://sdindustrial.com.mx/blog/sensor-de-humedad/)
+
 Idea 3: Alerta de ventana abierta
 
 Problema
@@ -74,6 +76,9 @@ Activa un buzzer y un LED rojo. Opcionalmente, muestra el mensaje “Ventana abi
 
 Qué pieza habría que fabricar
 Carcasa para el microcontrolador y soporte para colocar el sensor magnético en el marco, fabricados con impresión 3D o corte láser.
+
+¿Cómo funciona la Detección de Ventanas Abiertas? Centro de Ayuda de tado°. Recuperado el 24 de septiembre de 2026, de [https://support.tado.com/es/articles/3387308-como-funciona-la-deteccion-de-ventanas-abiertas
+](https://support.tado.com/es/articles/3387308-como-funciona-la-deteccion-de-ventanas-abiertas)
 
 Tabla de viabilidad
 
