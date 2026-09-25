@@ -26,6 +26,9 @@ Envía una señal al microcontrolador para actualizar en la pantalla el estado d
 Qué pieza habría que fabricar
 Caja para el botón, soporte para instalarlo en cada cubículo y señal luminosa fabricada con impresión 3D o corte láser.
 
+Bleemeo. (s. f.). Monitoreo de disponibilidad que te avisa antes que tus usuarios. Recuperado el 24 de septiembre de 2026, de [https://bleemeo.com/es/soluciones/monitoreo-de-disponibilidad](https://bleemeo.com/es/soluciones/monitoreo-de-disponibilidad/)
+
+
 Idea 2: Aviso de humedad en una maceta
 
 Problema
