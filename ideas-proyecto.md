@@ -104,3 +104,5 @@ Por qué. Es la alternativa más accesible porque utiliza pocos componentes: un 
 Qué todavía no sé. Necesito probar qué nivel de humedad debe considerarse “tierra seca” para cada planta, porque no todas requieren la misma cantidad de agua. También debo comprobar que el sensor no se dañe con el riego, decidir cómo alimentar el dispositivo y diseñar una carcasa que proteja el microcontrolador.
 
 Declaración de uso de IA: Le pedí a chat gpt que me ayudara a saber que partes físicas utilizaría según mis ideas porque desconozco de lo que se tendria que utilizar y le pedi que revisara las faltas de ortografia.  
+
+Agregue APA + ligas
