@@ -8,3 +8,20 @@ Su trabajo es mantener todo ordenado y seguro junto a la maceta, protegiendo los
 
 Qué fue lo más difícil:
 Lo más complicado fue calcular bien los espacios y los huecos para que los botones, las luces y la pantalla embonaran exactamente en su lugar a la hora de imprimirlo en 3D.
+
+Caja / Placa Base — Prototipo Integrado
+ 
+Espesor real del MDF (vernier): 3.0 mm
+
+Parámetros:
+espesor = 3.0
+mmkerf = 0.2 mm (provisional, se mide en clase)
+dedo_ancho = 150 / 5 = 30 mm
+dedo_alto = 150 / 5 = 30 mm
+dedo_fondo = (150 − 2 · 3) / 5 = 28.8 mm
+
+Qué fue lo más difícil:
+Lo más complicado fue ajustar las posiciones exactas en coordenadas $XY$ para que los huecos del microcontrolador y el panel de LEDs no se empalmaran con la ranura de cables y el módulo de la estaca, respetando la distancia mínima de pared de 2 mm para evitar que el MDF se rompa durante el corte láser.
+
+Declaración de uso de IAHerramienta utilizada: GeminiQué le pedí: Le pedí ayuda con la ortografía y las medidas.
+Qué modifiqué o rechacé de su respuesta, y por qué: Conservé únicamente el cálculo dimensional y la corrección del texto, adaptando la estructura final al formato exacto requerido.
