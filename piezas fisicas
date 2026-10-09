@@ -15,7 +15,7 @@ Espesor real del MDF (vernier): 3.0 mm
 
 Parámetros:
 espesor = 3.0
-mmkerf = 0.2 mm (provisional, se mide en clase)
+mmkerf = 0.155 mm (provisional, se mide en clase)
 dedo_ancho = 150 / 5 = 30 mm
 dedo_alto = 150 / 5 = 30 mm
 dedo_fondo = (150 − 2 · 3) / 5 = 28.8 mm
